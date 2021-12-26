@@ -14,7 +14,7 @@
 
 <a href="https://i.ibb.co/BPzCb5Z/Black-NET-v3-5-1-0-and-src-vb-net-php-botnet-source-code-advanced-By-Black-Hacker2.png" alt="Black-NET-v3-5-1-0-and-src-vb-net-php-botnet-source-code-advanced-By-Black-Hacker" border="0"></a>
 
-
+** **
 
 # BlackNET
 Free advanced and modern Windows botnet with a nice and secure PHP panel developed using VB.NET.
